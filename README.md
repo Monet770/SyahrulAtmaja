@@ -1,2 +1,2 @@
 # Vili-Spesifikasi
-entah
+Spesifikasi dari XIAOMI 11T PRO
